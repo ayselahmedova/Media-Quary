@@ -1,0 +1,52 @@
+body{
+    margin: 0;
+    padding: 0;
+}
+.main{
+    width: 100%;
+    min-height: 800px;
+    float: left;
+    background-color: grey;
+}
+.nav{
+    width: 100%;
+    height: 100px;
+    float: left;
+    background-color: blue;
+    margin-bottom: 15px;
+}
+.center{
+    width: 100%;
+    height: 600px;
+    float: left;
+    background-color: blue;
+    margin-bottom: 15px;
+}
+.footer{
+    width: 100%;
+    height: 100px;
+    float: left;
+    background-color: blue;
+}
+.c1{
+    width: 325px;
+    height: 600px;
+    float: left;
+    
+    background-color: green;
+}
+.c2{
+    width: 650px;
+    height: 600px;
+    float: left;
+    background-color: green;
+    margin: 0 15px;
+}
+.c3{
+    width: 325px;
+    height: 600px;
+    float: left;
+    background-color: green;
+}
+
+
